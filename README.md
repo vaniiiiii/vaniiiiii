@@ -8,11 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/vani" target="blank"><img src="https://img.shields.io/twitter/follow/vani?logo=twitter&style=for-the-badge" alt="vani" /></a> </p>
 
-- 🔭 I’m currently working on [Spotify Clone](https://github.com/vaniiiiii/spotify)
+- 🔭 I’m currently working on Responsive Webpage using React Js
 
-- 🌱 I’m currently learning **Power Bi and Tableau**
+- 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [https://vaniiiiii.netlify.app/](https://vaniiiiii.netlify.app/)
 
 - 💬 Ask me about **Python**
 
